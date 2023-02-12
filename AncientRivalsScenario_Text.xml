@@ -30,13 +30,13 @@
 			<Text>Розширюйте свої горизонти та станьте цивілізованими в цьому дослідницькому та культурному сценарії, дія якого відбувається в стародавню еру. Триває 50 ходів.</Text>
 		</Row>	
 		<Row Tag="LOC_ANCIENT_RIVALS_MOD_DESCRIPTION">
-			<Text>Victory Conditions[NEWLINE]At the turn limit, victory is awarded to the player with the most of the following conditions. Ties are resolved based on score.[NEWLINE]Cultured - Research the most civics.[NEWLINE]Explorer - Reveal the most hexes on the map.[NEWLINE]Ancient Raider - Pillage the most hexes.[NEWLINE]Wonder of the Ancient World - Possess the most wonders.[NEWLINE]</Text>
+			<Text>Умови перемоги[NEWLINE]Коли гра закінчується, перемога присуджується гравцеві з найбільшою кількістю наступних умов. Нічия вирішується на основі рахунку.[NEWLINE]Культурна перемога - дослідіть найбільшу кількість цивіків.[NEWLINE]Дослідник - розкрийте найбільшу кількість гексів на карті.[NEWLINE]Древній Рейдер - Пограбуйте найбільшу кількість гексів.[NEWLINE]Чудо стародавнього світу - володіти найбільшою кількістю чудес.[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_AR_GAME_TURN_LIMIT_REACHED_PROGRESS">
-			<Text>Turn Limit {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
+			<Text>Ліміт ходів {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_ANCIENT_RIVALS_PLAYER_HAS_MOST_ANCIENT_RIVALS_POINTS_PROGRESS">
-			<Text>Victory Points {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Hexes Explored {HexesExplored} {ExploredStatusIcon}[NEWLINE]Tiles Pillaged {TilesPillaged} {PillagedStatusIcon}[NEWLINE]Civics Completed {CivicsCompleted} {CivicsStatusIcon}[NEWLINE]Wonders Possessed {WondersPossessed} {WondersStatusIcon}</Text>
+			<Text>Очки перемоги {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Гексів розкрито {HexesExplored} {ExploredStatusIcon}[NEWLINE]Гексів пограбовано {TilesPillaged} {PillagedStatusIcon}[NEWLINE]Цивіків досліджено {CivicsCompleted} {CivicsStatusIcon}[NEWLINE]Кількість чуд {WondersPossessed} {WondersStatusIcon}</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
