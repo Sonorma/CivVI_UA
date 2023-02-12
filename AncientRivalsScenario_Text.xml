@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<BaseGameText>
+		<!-- Ruleset -->
+		<Row Tag="LOC_ANCIENT_RIVALS_RULESET_TITLE">
+			<Text>Стародавні суперники</Text>
+		</Row>
+		<Row Tag="LOC_ANCIENT_RIVALS_RULESET_TEASER">
+			<Text>Розширюйте свої горизонти та станьте цивілізованими в цьому дослідницькому та культурному сценарії, дія якого відбувається в стародавню еру. Триває 50 ходів.[NEWLINE]Умови перемоги[NEWLINE]Коли гра закінчується, перемога присуджується гравцеві з найбільшою кількістю наступних умов. Нічия вирішується на основі рахунку.[NEWLINE][ICON_Bullet]Культурна перемога - дослідіть найбільшу кількість цивіків.[NEWLINE][ICON_Bullet]Дослідник - розкрийте найбільшу кількість гексів на карті.[NEWLINE][ICON_Bullet]Древній Рейдер - Пограбуйте найбільшу кількість гексів.[NEWLINE][ICON_Bullet]Чудо стародавнього світу - володіти найбільшою кількістю чудес.</Text>
+		</Row>
+
+		<!-- Victories  -->
+		<Row Tag="LOC_ANCIENT_RIVALS_VICTORY_TITLE">
+			<Text>Стародавні суперники</Text>
+		</Row>
+		<Row Tag="LOC_ANCIENT_RIVALS_VICTORY_DESC">
+			<Text>Коли гра закінчується, перемога присуджується гравцеві з найбільшою кількістю наступних умов. Нічия вирішується на основі рахунку.[NEWLINE][ICON_Bullet]Культурна перемога - дослідіть найбільшу кількість цивіків.[NEWLINE][ICON_Bullet]Дослідник - розкрийте найбільшу кількість гексів на карті.[NEWLINE][ICON_Bullet]Древній Рейдер - Пограбуйте найбільшу кількість гексів.[NEWLINE][ICON_Bullet]Чудо стародавнього світу - володіти найбільшою кількістю чудес.[NEWLINE]</Text>
+		</Row>	
+
+		<!-- Victories -->
+		<Row Tag="LOC_ANCIENT_RIVALS_VICTORY_WIN_BLURB">
+			<Text>Дайте мені досить довгий важіль і точку опори, на якій я можу його поставити, і я рухатиму світ. - Архімед</Text>
+		</Row>		
+		
+		<!-- Scenario Package -->
+		<Row Tag="LOC_ANCIENT_RIVALS_MOD_TITLE">
+			<Text>Сценарій "Стародавні суперники"</Text>
+		</Row>
+		<Row Tag="LOC_ANCIENT_RIVALS_MOD_TEASER">
+			<Text>Розширюйте свої горизонти та станьте цивілізованими в цьому дослідницькому та культурному сценарії, дія якого відбувається в стародавню еру. Триває 50 ходів.</Text>
+		</Row>	
+		<Row Tag="LOC_ANCIENT_RIVALS_MOD_DESCRIPTION">
+			<Text>Victory Conditions[NEWLINE]At the turn limit, victory is awarded to the player with the most of the following conditions. Ties are resolved based on score.[NEWLINE]Cultured - Research the most civics.[NEWLINE]Explorer - Reveal the most hexes on the map.[NEWLINE]Ancient Raider - Pillage the most hexes.[NEWLINE]Wonder of the Ancient World - Possess the most wonders.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_AR_GAME_TURN_LIMIT_REACHED_PROGRESS">
+			<Text>Turn Limit {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_ANCIENT_RIVALS_PLAYER_HAS_MOST_ANCIENT_RIVALS_POINTS_PROGRESS">
+			<Text>Victory Points {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Hexes Explored {HexesExplored} {ExploredStatusIcon}[NEWLINE]Tiles Pillaged {TilesPillaged} {PillagedStatusIcon}[NEWLINE]Civics Completed {CivicsCompleted} {CivicsStatusIcon}[NEWLINE]Wonders Possessed {WondersPossessed} {WondersStatusIcon}</Text>
+		</Row>
+	</BaseGameText>
+</GameData>
